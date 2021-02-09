@@ -1,0 +1,5 @@
+# Amazon-Ratings-and-Reviews
+Analyzed Amazon Reviews and Ratings data for US Region to analyze the impact of reviews and ratings and to understand the psychology of the customer using Big Data Technologies.
+Defined KPI metrics provide structure to the analysis and bridges the communication gap between business and technology team. Data cleaning phase was initiated thereafter, where we cleaned the data and involved process such as removing null values etc. More emphasis was given on analyzing data using Big data technologies. 
+Used Microsoft Azure Databricks and created our workspace on Azure portal. We used cluster of configuration 6.0 Conda Beta with 2 nodes which includes Apache Spark 2.4.3, scala 2.11.We used python programming language for our analysis and used python API (pyspark) and performed analysis using several sql functions. For making our analysis easier we choose to work on dataframe by using pandas. 
+For visualization we used python libraries Matplotlib.pyplot and seaborn. 
